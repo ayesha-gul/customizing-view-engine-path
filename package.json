@@ -1,0 +1,15 @@
+{
+  "name": "customizing-template-path",
+  "version": "1.0.0",
+  "description": "rename the views engine name",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayesha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
